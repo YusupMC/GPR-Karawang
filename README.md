@@ -10,7 +10,7 @@
 ## 📌 Cara Menggunakan
 1. Salin kode:
    ```bash
-   <script src="https://yusupmc.github.io/gpr-karawang/karawang-widget.js"></script>
+   <script src="https://yusupmc.github.io/Gpr-Karawang/karawang-widget.js"></script>
    <div id="karawang-widget-container"></div>
    ```  
 2. Tambahkan widget ke halaman web sesuai panduan di README
